@@ -19,11 +19,31 @@ function App() {
         </div>
       </header>
 
-      <div className="container grid grid-cols md:grid-cols-2 lg:grid-cols-4 gap-5 mx-auto">
+      <div className="px-4">
 
-        <ProductCard imageURL="/img/sample-image.webp" badge="Promo" title="Título do card" alt="Imagem do produto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</ProductCard>
+        <div className="container grid grid-cols md:grid-cols-2 lg:grid-cols-4 gap-5 mx-auto">
+
+          <ProductCard imageURL="./img/sample-image.webp" badge="Promotional badge" title="Product short description" alt="Imagem do produto" oldPrice="100" price="49,90">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+          </ProductCard>
+
+          <ProductCard imageURL="./img/sample-image.webp" badge="Promotional badge" title="Product short description" alt="Imagem do produto" oldPrice="100" price="49,90">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+          </ProductCard>
+
+          <ProductCard imageURL="./img/sample-image.webp" badge="Promotional badge" title="Product short description" alt="Imagem do produto" oldPrice="100" price="49,90">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+          </ProductCard>
+
+          <ProductCard imageURL="./img/sample-image.webp" badge="Promotional badge" title="Product short description" alt="Imagem do produto" oldPrice="100" price="49,90">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+          </ProductCard>
+
+        </div>
 
       </div>
+
+
 
     </body>
 
