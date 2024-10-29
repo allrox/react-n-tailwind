@@ -1,0 +1,63 @@
+[
+  {
+    "imageURL": "./img/sample-image.webp",
+    "badge": "Summer Sale",
+    "title": "This product short description intentionally exceeds its container size to show the automatic line break behavior",
+    "rating": "4.5",
+    "alt": "Imagem do produto",
+    "oldPrice": "100",
+    "price": "49,90",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "cta": "Buy with 50% Off!"
+  },
+  {
+    "imageURL": "./img/mockup-2.webp",
+    "badge": "New formulation!",
+    "title": "This product short description intentionally exceeds its container size to show the automatic line break behavior",
+    "rating": "4.5",
+    "alt": "Imagem do produto",
+    "price": "129,90",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "cta": "Buy now!"
+  },
+  {
+    "imageURL": "./img/mockup-1.webp",
+    "title": "This product short description intentionally exceeds its container size to show the automatic line break behavior",
+    "alt": "Imagem do produto",
+    "oldPrice": "100",
+    "price": "50",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "cta": "Buy with 50% Off!"
+  },
+  {
+    "imageURL": "./img/mockup-4.webp",
+    "title": "This product short description intentionally exceeds its container size to show the automatic line break behavior",
+    "rating": "4.5",
+    "alt": "Imagem do produto",
+    "price": "399,90",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "cta": "Buy now!"
+  },
+  {
+    "imageURL": "./img/mockup-3.webp",
+    "badge": "Best anti-aging effect",
+    "title": "This product short description intentionally exceeds its container size to show the automatic line break behavior",
+    "rating": "4.5",
+    "alt": "Imagem do produto",
+    "oldPrice": "130",
+    "price": "89,90",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "cta": "Buy with 30% Off!"
+  },
+  {
+    "imageURL": "./img/mockup-6.webp",
+    "badge": "Complete skincare",
+    "title": "This product short description intentionally exceeds its container size to show the automatic line break behavior",
+    "rating": "4.5",
+    "alt": "Imagem do produto",
+    "oldPrice": "800",
+    "price": "689,90",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "cta": "Buy now!"
+  },
+]
